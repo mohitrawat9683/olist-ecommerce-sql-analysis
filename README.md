@@ -1,6 +1,6 @@
 # Brazilian E-Commerce Performance Dashboard
 
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](dashboard_overview.png)
 
 ## Overview
 An end-to-end analysis of the Olist Brazilian e-commerce dataset (2016-2018, ~100K orders). SQL is used for data exploration and validation, and Power BI for the interactive dashboard covering revenue, orders, customer spending, product categories and geographic performance.
